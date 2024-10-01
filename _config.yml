@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mohamed Elmanzalawi"
 title_separator          : "-"
 name                     : &name "Mohamed Elmanzalawi"
-description              : &description "personal description"
+description              : &description "Masters Student"
 url                      : https://mohamed-elmanzalawi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,15 +26,15 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Masters Student"
   location         : "Mishima, Japan"
-  employer         : "Red Brick University"
+  employer         : "Graduate University for Advanced Studies, SOKENDAI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mohamed.elmanzalawi@nig.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DoawAGAAAAAJ&hl&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-3840-5136"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
