@@ -33,7 +33,7 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DoawAGAAAAAJ&view_op=list_works&sortby=pubdate"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-3840-5136"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : 
   impactstory      : 
   semantic         : 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
