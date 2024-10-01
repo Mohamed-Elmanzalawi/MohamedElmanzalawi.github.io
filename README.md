@@ -1,6 +1,10 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
+This repo hosts my personal website MohamedElmanzalawi.github.io via GitHub pages. The Jekyll template is AcademicPages, which was forked (then detached) by Stuart Geiger from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License.
+
+I modified the template to my needs. Please feel free to fork this modified version.
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
