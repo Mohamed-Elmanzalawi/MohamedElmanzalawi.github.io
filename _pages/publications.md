@@ -9,7 +9,7 @@ author_profile: true
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Preprints**</span></span>
 
-**<span style="color:#3B528B">Mohamed Elmanzalawi</span>**, Takatomo Fujisawa, Hiroshi Mori, Yasukazu Nakamura, Yasuhiro Tanizawa; **DFAST_QC: Quality Assessment and Taxonomic Identification Tool for Prokaryotic Genomes**;*bioRxiv*,2024.07.22.604526. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1101/2024.07.22.604526){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/nigyta/dfast_qc){:target="_blank"} [![PR1](https://img.shields.io/badge/Website-DFAST_QC-blue)](https://dfast.ddbj.nig.ac.jp/dqc/submit/){:target="_blank"}<br>
+**<span style="color:#3B528B">Mohamed Elmanzalawi</span>**, Takatomo Fujisawa, Hiroshi Mori, Yasukazu Nakamura, Yasuhiro Tanizawa; **DFAST_QC: Quality Assessment and Taxonomic Identification Tool for Prokaryotic Genomes**; *bioRxiv*,2024.07.22.604526. [![GCB](https://img.shields.io/badge/Link-Research Article-21908C.svg)](https://doi.org/10.1101/2024.07.22.604526){:target="_blank"} [![PR1](https://img.shields.io/badge/Code-Github-5DC863.svg)](https://github.com/nigyta/dfast_qc){:target="_blank"} [![PR1](https://img.shields.io/badge/Website-DFAST_QC-blue)](https://dfast.ddbj.nig.ac.jp/dqc/submit/){:target="_blank"}<br>
 
 ------
 
