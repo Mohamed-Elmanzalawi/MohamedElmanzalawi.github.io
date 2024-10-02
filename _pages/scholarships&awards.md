@@ -9,7 +9,8 @@ author_profile: true
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Scholarships**</span></span>
 
-* <span style="color:#21908C">Ministry of Education, Culture, Sports, Science and Technology (MEXT) scholarship/span> <span style="color:#3B528B">(*Oct. 2021*)</span> One of the 15 students out of 5000+ (0.3%) applicants in Egypt to receive MEXT: Ministry of Education, Culture, Sports, Science and Technology scholarship to study in Japan. [![GCB](https://img.shields.io/badge/Link-Scholarship-2ECC71.svg)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm){:target="_blank"} <br>
+* <span style="color:#21908C">Ministry of Education, Culture, Sports, Science and Technology (MEXT) scholarship</span> <span style="color:#3B528B">(*Oct. 2021*)</span> One of the 15 students out of 5000+ (0.3%) applicants in Egypt to receive MEXT: Ministry of Education, Culture, Sports, Science and Technology scholarship to study in Japan. [![GCB](https://img.shields.io/badge/Link-Scholarship-2ECC71.svg)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm){:target="_blank"} <be>
+
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
 
