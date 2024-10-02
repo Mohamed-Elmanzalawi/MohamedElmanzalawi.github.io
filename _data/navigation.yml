@@ -21,8 +21,8 @@ main:
   - title: "Awards and Grants"
     url: /awards&grants/
 
-  - title: "News"
-    url: /news/
+  # - title: "News"
+    # url: /news/
   
   - title: "Links"
     url: /links/
