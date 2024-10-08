@@ -16,6 +16,6 @@ Throughout my research journey, I have honed a diverse skill set in both wet lab
 Feel free to contact me for any inquiries or potential collaborations in any research topic. You can reach me at <a href="mailto:mohamed.elmanzalawi@nig.ac.jp" target="_blank" style="color:#3B528B;">mohamed.elmanzalawi@nig.ac.jp</a>.<br>
 
 *Key words:*<br>
-Bioinformatics; pipeline development; machine learning; human genetics; rare diseases; microbial taxonomy; variant analysis; *Limosilactobacillus reuteri* <br>
+Bioinformatics; pipeline development; machine learning; human genetics; rare diseases; microbial taxonomy; variant analysis<br>
 
 <meta name="google-site-verification" content="UbZe53clXa9aU6Eo52oNNiqFMeq1klDD4_m8R_C7cEk" />
