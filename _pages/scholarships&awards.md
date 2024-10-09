@@ -13,7 +13,7 @@ author_profile: true
 
 * <span style="color:#21908C">Ministry of Education, Culture, Sports, Science and Technology (MEXT) scholarship</span> <span style="color:#3B528B">(*Jul. 2023*)</span> One of the 15 students out of 5000+ (0.3%) applicants in Egypt to receive MEXT: Ministry of Education, Culture, Sports, Science and Technology scholarship to study in Japan. [![GCB](https://img.shields.io/badge/Link-Scholarship-2ECC71.svg)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm){:target="_blank"} <be>
 
-* <span style="color:#21908C">NIG Global Scholar (NIG-GS) scholarship</span> <span style="color:#3B528B">(*Jun. 2023*)</span> The only student out of 1000+ (0.1%) applicants to receive NIG Global Scholar (NIG-GS) scholarship to study at The National Institute of Genetics (NIG). [![GCB](https://img.shields.io/badge/Link-Scholarship-2ECC71.svg)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm){:target="_blank"} <br>
+* <span style="color:#21908C">NIG Global Scholar (NIG-GS) scholarship</span> <span style="color:#3B528B">(*Jun. 2023*)</span> The only student out of 1000+ (0.1%) applicants to receive NIG Global Scholar (NIG-GS) scholarship to study at The National Institute of Genetics (NIG). [![GCB](https://img.shields.io/badge/Link-Scholarship-2ECC71.svg)](https://www.nig.ac.jp/nig/phd-program/admissions-top/admissions/nig-gs){:target="_blank"} <br>
 
 ------
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Awards**</span></span>
@@ -30,10 +30,10 @@ author_profile: true
 
 * <span style="color:#21908C">Excellent performance award</span> <span style="color:#3B528B">(*Feb. 2018*)</span> Given by Dr.Omar Ahmed Taha Al Fahal pharmacy manager in Madinat Zayed Hospital, UAE · Feb 2018<be>
 
-* <span style="color:#21908C">Excellent Execution award in Community Pharmacy Project</span> <span style="color:#3B528B">(*Jun. 2017*)</span><be> 
+* <span style="color:#21908C">Excellent Execution award in Community Pharmacy Project</span> <span style="color:#3B528B">(*Jun. 2017*)</span>Given by Prof.Dr.Samar Farid, Head of the Department of Clinical Pharmacy, Faculty Of Pharmacy, Cairo University<be> 
 
-* <span style="color:#21908C">Most Passionate</span> <span style="color:#3B528B">(*May. 2016*)</span><be>
+* <span style="color:#21908C">Most Passionate</span> <span style="color:#3B528B">(*May. 2016*)</span>Given by SCOPS Academy Clinical workshop.<be>
 
-* <span style="color:#21908C">Completion Certificate student award</span> <span style="color:#3B528B">(*May. 2014*)</span> One of the top 10 highschool students in UAE-Western District.<be>
+* <span style="color:#21908C">Completion Certificate student award</span> <span style="color:#3B528B">(*May. 2014*)</span> Given by Abdullah Ali Al Hammadi Al Gharbiya Model - Western high school Director. One of the top 10 highschool students in UAE-Western District.<be>
 
 
