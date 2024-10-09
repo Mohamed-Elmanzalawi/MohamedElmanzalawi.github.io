@@ -30,9 +30,9 @@ author_profile: true
 
 * <span style="color:#21908C">Excellent performance award</span> <span style="color:#3B528B">(*Feb. 2018*)</span> Given by Dr.Omar Ahmed Taha Al Fahal pharmacy manager in Madinat Zayed Hospital, UAE · Feb 2018<be>
 
-* <span style="color:#21908C">Excellent Execution award in Community Pharmacy Project</span> <span style="color:#3B528B">(*Jun. 2017*)</span>Given by Prof.Dr.Samar Farid, Head of the Department of Clinical Pharmacy, Faculty Of Pharmacy, Cairo University<be> 
+* <span style="color:#21908C">Excellent Execution award in Community Pharmacy Project</span> <span style="color:#3B528B">(*Jun. 2017*)</span> Given by Prof.Dr.Samar Farid, Head of the Department of Clinical Pharmacy, Faculty Of Pharmacy, Cairo University<be> 
 
-* <span style="color:#21908C">Most Passionate</span> <span style="color:#3B528B">(*May. 2016*)</span>Given by SCOPS Academy Clinical workshop.<be>
+* <span style="color:#21908C">Most Passionate</span> <span style="color:#3B528B">(*May. 2016*)</span> Given by SCOPS Academy Clinical workshop.<be>
 
 * <span style="color:#21908C">Completion Certificate student award</span> <span style="color:#3B528B">(*May. 2014*)</span> Given by Abdullah Ali Al Hammadi Al Gharbiya Model - Western high school Director. One of the top 10 highschool students in UAE-Western District.<be>
 
