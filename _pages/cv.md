@@ -18,7 +18,7 @@ redirect_from:
     <td style="border: none;">
       <b>M.Sc. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
       Advisor: <span style="color:teal;">Dr. Nakamura Yasukazu</span><br>
-      My research spans two pivotal areas: uncovering rare diseases linked to genomic instability, with a focus on complex intron mutations, and developing DFAST_QC—a critical tool for prokaryotic genome quality check and taxonomic identification.<br>
+      My research spans two pivotal areas: uncovering genomic mutations linked to rare diseases, with a focus on complex intron mutations, and developing DFAST_QC—a critical tool for prokaryotic genome quality check and taxonomic identification.<br>
     </td>
   </tr>
   <tr>
