@@ -14,17 +14,23 @@ redirect_from:
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2014/07 – 2016/06</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2023/10 – 2025/08</td>
     <td style="border: none;">
-      <b>M.Sc. in Molecular Biology and Biotechnology</b>, <a href="https://www.tezu.ernet.in" style="color: blue;">Tezpur University</a>, Tezpur, Assam, India<br>
-      Advisor: <span style="color:teal;">Dr. Ashis K. Mukherjee</span><br>
-      Dissertation thesis: Influence of physico-chemical parameters on growth kinetics and proteomic analysis of <i>Pseudomonas aeruginosa</i> strain 53 when grown in presence of pyrene<br>
+      <b>M.Sc. in Genetics</b>, <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
+      Advisor: <span style="color:teal;">Dr. Nakamura Yasukazu</span><br>
+      My research spans two pivotal areas: uncovering rare diseases linked to genomic instability, with a focus on complex intron mutations, and developing DFAST_QC—a critical tool for prokaryotic genome quality check and taxonomic identification.<br>
     </td>
   </tr>
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2011/07 – 2014/06</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2021/09 – 2022/02</td>
     <td style="border: none;">
-      <b>B.Sc. in Biotechnology</b>, <a href="https://gauhati.ac.in/" style="color: blue;">Gauhati University</a>, Guwahati, Assam, India<br>
+      <b>Professional Diploma in Bioinformatics</b>, <a href="https://nu.edu.eg/" style="color: blue;">Nile University</a>, Giza, Egypt<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; vertical-align: top;">2014/05 – 2019/05</td>
+    <td style="border: none;">
+      <b>B.Sc. in Clinical Pharmacy</b>, <a href="https://gauhati.ac.in/" style="color: blue;">Faculty Of Pharmacy Cairo University</a>, Cairo, Egypt<br>
     </td>
   </tr>
 </table>
