@@ -40,19 +40,32 @@ redirect_from:
 
 <table style="border: none; width: 100%; font-size: 16px;">
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2019/04 – 2019/09</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2022/06 – 2022/07</td>
     <td style="border: none;">
-      <b>Research Assistant</b><br>
-      Advisor: <span style="color:teal;">Dr. Yogendra Sharma</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <b>Research Intern (NIGENTERN 2022)</b><br>
+      Advisor: <span style="color:teal;">Dr. Nakamura Yasukazu</span><br> 
+      <a href="https://www.nig.ac.jp/nig/" style="color: blue;">ROIS-National Institute of Genetics</a>, Mishima, Japan<br>
     </td>
   </tr>
   <tr>
-    <td style="border: none; width: 20%; vertical-align: top;">2017/04 – 2019/03</td>
+    <td style="border: none; width: 20%; vertical-align: top;">2021/09 – 2023/02</td>
     <td style="border: none;">
-      <b>Research Assistant</b><br>
-      Advisor: <span style="color:teal;">Dr. Satish Kumar</span><br> 
-      <a href="https://www.ccmb.res.in/" style="color: blue;">CSIR-Centre for Cellular and Molecular Biology</a>, Hyderabad, Telangana, India<br>
+      <b>Research student</b><br>
+      <a href="https://nu.edu.eg/" style="color: blue;">Nile University</a>, Giza, Egypt<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; vertical-align: top;">2016/08 – 2016/09</td>
+    <td style="border: none;">
+      <b>Research student</b><br>
+      <a href="http://mrsug.weebly.com/" style="color: blue;">Medical research society, Cairo University</a>, Cairo, Egypt<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; vertical-align: top;">2016/03 – 2016/06</td>
+    <td style="border: none;">
+      <b>Research student</b><br>
+      <a href="https://www.facebook.com/scops.page/" style="color: blue;">SCOPS -Students'Conference On Pharmaceutical Studies- ,Ain Shams University</a>, Cairo, Egypt<br>
     </td>
   </tr>
 </table>
