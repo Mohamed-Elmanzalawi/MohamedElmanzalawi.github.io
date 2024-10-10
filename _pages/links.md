@@ -13,6 +13,7 @@ author_profile: true
 
 [![CEBC](https://img.shields.io/badge/University website-The Graduate University for Advanced Studies, SOKENDAI-006A4E.svg)](https://www.soken.ac.jp/en/){:target="_blank"}<br>
 [![ECOBIO](https://img.shields.io/badge/University website-Nile University-006A4E.svg)](https://nu.edu.eg/){:target="_blank"}<br>
+[![IPEV](https://img.shields.io/badge/University website-Faculty Of Pharmacy Cairo University-006A4E.svg)](https://www.pharma.cu.edu.eg/){:target="_blank"}<br>
 [![IPEV](https://img.shields.io/badge/University website-Cairo University-006A4E.svg)](https://cu.edu.eg/Home){:target="_blank"}<br>
 
 ------
